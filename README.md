@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Spring Framework
+- 👯 I’m looking to collaborate on Java Projects
+- 💬 Ask me about ...
+- 📫 How to reach me: https://www.linkedin.com/in/victor-ferreira-fran%C3%A7a-ab4034229/
+
 <!--
 **Polymatheia-BR/Polymatheia-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
