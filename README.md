@@ -1,15 +1,15 @@
 # Hi there!👋
 ### My name is Victor and i work with these languages:
-![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&color=8E2DE2&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&color=8E2DE2&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&color=8E2DE2&logo=TypeScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&color=8E2DE2&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&color=8E2DE2&logo=CSS3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&color=8E2DE2&logo=Java&logoColor=white&labelColor=42454a)
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&color=8E2DE2&logo=JavaScript&logoColor=white&labelColor=42454a)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&color=8E2DE2&logo=TypeScript&logoColor=white&labelColor=42454a)
+![HTML5](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&color=8E2DE2&logo=HTML5&logoColor=white&labelColor=42454a)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&color=8E2DE2&logo=CSS3&logoColor=white&labelColor=42454a)
 
 ### And these tools:
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&color=8E2DE2&logo=React&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-blue?style=for-the-badge&color=8E2DE2&logo=Spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-blue?style=for-the-badge&color=8E2DE2&logo=Hibernate&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&color=8E2DE2&logo=React&logoColor=white&labelColor=42454a)
+![Spring](https://img.shields.io/badge/-Spring-blue?style=for-the-badge&color=8E2DE2&logo=Spring&logoColor=white&labelColor=42454a)
+![Hibernate](https://img.shields.io/badge/-Hibernate-blue?style=for-the-badge&color=8E2DE2&logo=Hibernate&logoColor=white&labelColor=42454a)
 
 - 🌱 I’m currently learning Spring Framework
 - 🤔 I’m looking for help with Spring
