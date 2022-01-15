@@ -16,10 +16,8 @@
 - 👯 I’m looking to collaborate on Java Projects
 - 📫 How to reach me: https://www.linkedin.com/in/victor-ferreira-fran%C3%A7a-ab4034229/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polymatheia-BR&theme=radical&title_color=8E2DE2&text_color=fff) <img src="https://github-readme-stats.vercel.app/api?username=Polymatheia-BR&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polymatheia-BR&layout=compact&theme=midnight-purple&bg_color=141321)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Polymatheia-BR&layout=compact&theme=midnight-purple&bg_color=141321)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **Polymatheia-BR/Polymatheia-BR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
