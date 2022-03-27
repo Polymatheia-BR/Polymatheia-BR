@@ -1,5 +1,5 @@
-# Hi there!👋
-### My name is Victor and i work with these languages:
+# Konnichiwa! How are you doing?
+### I'm a Back-End Java student currently working/learning these Languages:
 ![Java](https://img.shields.io/badge/-Java-blue?style=for-the-badge&color=8E2DE2&logo=Java&logoColor=white&labelColor=42454a)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&color=8E2DE2&logo=JavaScript&logoColor=white&labelColor=42454a)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&color=8E2DE2&logo=TypeScript&logoColor=white&labelColor=42454a)
