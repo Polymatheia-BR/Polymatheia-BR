@@ -14,7 +14,6 @@
 - 🌱 I’m currently learning Spring Framework
 - 🤔 I’m looking for help with Spring
 - 👯 I’m looking to collaborate on Java Projects
-- 📫 How to reach me: https://www.linkedin.com/in/victor-ferreira-fran%C3%A7a-ab4034229/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=Polymatheia-BR&layout=compact&theme=midnight-purple&bg_color=141321" />
